@@ -1,0 +1,12 @@
+appdirs==1.4.0
+beautifulsoup4==4.5.3
+enum34==1.1.6
+gi==1.2
+idna==2.2
+packaging==16.8
+pyparsing==2.1.10
+PyQt5==5.8
+requests==2.13.0
+sip==4.19.1
+six==1.10.0
+XlsxWriter==0.9.6
