@@ -11,7 +11,10 @@ this simple app for parse mail adress from sites and save to excel file
 Screenshots
 -------------
 ![enter image description here](https://i.imgur.com/fHbngqN.png)
-for ugly windows user
+
+
+for ugly windows user:
+
 
 ![enter image description here](http://i.imgur.com/XvlIQFf.png)
 
